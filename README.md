@@ -1,11 +1,11 @@
-# CAP Round 2 PDFs Downloader & Merger
+# CAP Round PDFs Downloader & Merger
 
 This project provides a simple Bash script to **download all CAP Round 2 PDFs** from the official server and then merge them into a single file using **WSL (Windows Subsystem for Linux)**.
 
 ---
 
 ## 🚀 Features
-- Downloads all CAP Round 2 PDFs (IDs **1000–2000**).
+- Downloads all CAP Round PDFs (IDs **1000–2000**).
 - Saves them into `D:\pdfs`.
 - Merge all PDFs into a single file (`merged.pdf`).
 
